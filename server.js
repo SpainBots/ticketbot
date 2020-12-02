@@ -97,4 +97,4 @@ client.on('messageReactionAdd', async(reaction, user) => {
     }
 })
 
-client.login(procces.env.token);
+bot.login(procces.env.token);
